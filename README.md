@@ -1,4 +1,4 @@
-# ⚡ Aido: AI Accessibility Assistant
+# ⚡ Aido: Ai Do It Once
 
 > **Turn your keyboard into an AI powerhouse.**  
 > Aido analyzes your text field and provides smart, context-aware AI tools directly inside any app.
